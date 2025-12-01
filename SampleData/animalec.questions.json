@@ -1,0 +1,228 @@
+[{
+  "_id": {
+    "$oid": "691a0ea121f906d59096bac6"
+  },
+  "question": "Qual é o maior animal terrestre?",
+  "title": "Maior Animal Terrestre",
+  "description": "Identificar o maior animal terrestre vivo",
+  "type": "multiple-choice",
+  "group": "Mamíferos",
+  "level": 1,
+  "answers": [
+    {
+      "title": "Elefante-Africano",
+      "description": "O elefante-africano é o maior animal terrestre",
+      "correct": true
+    },
+    {
+      "title": "Girafa",
+      "description": "As girafas são altas, mas não são as mais pesadas",
+      "correct": false
+    },
+    {
+      "title": "Hipopótamo",
+      "description": "Os hipopótamos são grandes, mas menores do que os elefantes",
+      "correct": false
+    },
+    {
+      "title": "Rinoceronte",
+      "description": "Os rinocerontes são grandes, mas não são os maiores",
+      "correct": false
+    }
+  ],
+  "active": true,
+  "link": {
+    "types": "reference",
+    "url": "https://example.com/elephants"
+  }
+},
+{
+  "_id": {
+    "$oid": "691a0ea121f906d59096bac7"
+  },
+  "question": "Que animal é conhecido como o 'Rei da Selva'?",
+  "title": "Rei da Selva",
+  "description": "Nome comum de um predador famoso",
+  "type": "multiple-choice",
+  "group": "Mamíferos",
+  "level": 1,
+  "answers": [
+    {
+      "title": "Leão",
+      "description": "Os leões são conhecidos como o rei da selva",
+      "correct": true
+    },
+    {
+      "title": "Tigre",
+      "description": "Os tigres são poderosos, mas não são chamados de rei da selva",
+      "correct": false
+    },
+    {
+      "title": "Leopardo",
+      "description": "Os leopardos são caçadores ágeis",
+      "correct": false
+    },
+    {
+      "title": "Chita",
+      "description": "As chitas são o animal terrestre mais rápido",
+      "correct": false
+    }
+  ],
+  "active": true,
+  "link": {
+    "types": "reference",
+    "url": "https://example.com/lions"
+  }
+},
+{
+  "_id": {
+    "$oid": "691a0ea121f906d59096bac8"
+  },
+  "question": "Quantos corações tem um polvo?",
+  "title": "Corações do Polvo",
+  "description": "Número de corações de um polvo",
+  "type": "multiple-choice",
+  "group": "Vida Marinha",
+  "level": 2,
+  "answers": [
+    {
+      "title": "Três",
+      "description": "Os polvos têm três corações",
+      "correct": true
+    },
+    {
+      "title": "Um",
+      "description": "A maioria dos animais tem um coração",
+      "correct": false
+    },
+    {
+      "title": "Dois",
+      "description": "Alguns animais têm dois corações",
+      "correct": false
+    },
+    {
+      "title": "Quatro",
+      "description": "Este número é demasiado alto",
+      "correct": false
+    }
+  ],
+  "active": true,
+  "link": {
+    "types": "reference",
+    "url": "https://example.com/octopus"
+  }
+},
+{
+  "_id": {
+    "$oid": "691a0ea121f906d59096bac9"
+  },
+  "question": "Qual é a ave mais rápida do mundo?",
+  "title": "Ave Mais Rápida",
+  "description": "Identificar a ave com a maior velocidade",
+  "type": "multiple-choice",
+  "group": "Aves",
+  "level": 2,
+  "answers": [
+    {
+      "title": "Falcão-peregrino",
+      "description": "Pode atingir mais de 386 km/h em mergulho",
+      "correct": true
+    },
+    {
+      "title": "Águia-real",
+      "description": "Rápida, mas não a mais rápida",
+      "correct": false
+    },
+    {
+      "title": "Andorinhão",
+      "description": "Muito rápido em voo nivelado",
+      "correct": false
+    },
+    {
+      "title": "Albatroz",
+      "description": "Excelente para longas distâncias",
+      "correct": false
+    }
+  ],
+  "active": true,
+  "link": {
+    "types": "reference",
+    "url": "https://example.com/peregrine-falcon"
+  }
+},
+{
+  "_id": {
+    "$oid": "691a0ea121f906d59096baca"
+  },
+  "question": "Que réptil consegue mudar de cor?",
+  "title": "Réptil que Muda de Cor",
+  "description": "Famoso pela sua capacidade de camuflagem",
+  "type": "multiple-choice",
+  "group": "Répteis",
+  "level": 1,
+  "answers": [
+    {
+      "title": "Camaleão",
+      "description": "Os camaleões são famosos por mudarem de cor",
+      "correct": true
+    },
+    {
+      "title": "Gecko",
+      "description": "Alguns geckos mudam de cor ligeiramente",
+      "correct": false
+    },
+    {
+      "title": "Iguana",
+      "description": "As iguanas não mudam significativamente de cor",
+      "correct": false
+    },
+    {
+      "title": "Cobra",
+      "description": "As cobras mudam de pele, mas não de cor",
+      "correct": false
+    }
+  ],
+  "active": true,
+  "link": {
+    "types": "reference",
+    "url": "https://example.com/chameleon"
+  }
+},
+{
+  "_id": {
+    "$oid": "691a0ea121f906d59096bacb"
+  },
+  "question": "Qual é a maior espécie de urso?",
+  "title": "Maior Espécie de Urso",
+  "description": "Identificar o maior urso",
+  "type": "multiple-choice",
+  "group": "Mamíferos",
+  "level": 2,
+  "answers": [
+    {
+      "title": "Urso-polar",
+      "description": "Os ursos-polares são a maior espécie de urso",
+      "correct": true
+    },
+    {
+      "title": "Urso-pardo",
+      "description": "Grande, mas não o maior",
+      "correct": false
+    },
+    {
+      "title": "Urso-negro",
+      "description": "Menor do que outras espécies",
+      "correct": false
+    },
+    {
+      "title": "Urso-panda",
+      "description": "Urso de tamanho médio",
+      "correct": false
+    }
+  ],
+  "active": true,
+  "link": {
+    "types": "reference",
+    "url": "https://example.com/polar-bear"
+  }
+}]

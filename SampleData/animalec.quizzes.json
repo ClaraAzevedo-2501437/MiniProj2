@@ -1,0 +1,68 @@
+[{
+  "_id": {
+    "$oid": "691a0eb521f906d59096bacc"
+  },
+  "name": "Quiz de Mamíferos - Iniciante",
+  "points": 100,
+  "level": 1,
+  "active": true,
+  "questions": [
+    {
+      "$oid": "691a0ea121f906d59096bac6"
+    },
+    {
+      "$oid": "691a0ea121f906d59096bac7"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "691a0eb521f906d59096bacd"
+  },
+  "name": "Quiz de Aves e Répteis",
+  "points": 200,
+  "level": 2,
+  "active": true,
+  "questions": [
+    {
+      "$oid": "691a0ea121f906d59096bac9"
+    },
+    {
+      "$oid": "691a0ea121f906d59096baca"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "691a0eb521f906d59096bace"
+  },
+  "name": "Desafio da Vida Marinha",
+  "points": 150,
+  "level": 2,
+  "active": true,
+  "questions": [
+    {
+      "$oid": "691a0ea121f906d59096bac8"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "691a0eb521f906d59096bacf"
+  },
+  "name": "Reino Animal Avançado",
+  "points": 300,
+  "level": 3,
+  "active": true,
+  "questions": [
+    {
+      "$oid": "691a0ea121f906d59096bacb"
+    },
+    {
+      "$oid": "691a0ea121f906d59096baca"
+    },
+    {
+      "$oid": "691a0ea121f906d59096bac9"
+    }
+  ]
+}]

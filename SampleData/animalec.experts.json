@@ -1,0 +1,111 @@
+[{
+  "_id": {
+    "$oid": "6929ee7ce2618b5f32f5534d"
+  },
+  "id": 2,
+  "name": "Dra. Maria Costa",
+  "specialty": "Aves (Passeriformes)",
+  "email": "maria.costa@instituto.pt",
+  "institution": "Instituto de Ornitologia",
+  "bio": "Investigadora dedicada ao estudo de aves migratórias e seus padrões comportamentais, com publicações em revistas científicas internacionais."
+},
+{
+  "_id": {
+    "$oid": "6929ee7ce2618b5f32f5534e"
+  },
+  "id": 3,
+  "name": "Prof. Carlos Mendes",
+  "specialty": "Répteis",
+  "email": "carlos.mendes@ciencias.pt",
+  "institution": "Faculdade de Ciências",
+  "bio": "Professor e pesquisador com foco em herpetologia tropical, especializado em conservação de tartarugas marinhas."
+},
+{
+  "_id": {
+    "$oid": "6929ee7ce2618b5f32f5534f"
+  },
+  "id": 4,
+  "name": "Dra. Ana Rodrigues",
+  "specialty": "Mamíferos Marinhos",
+  "email": "ana.rodrigues@oceanografia.pt",
+  "institution": "Centro de Oceanografia",
+  "bio": "Bióloga marinha com doutoramento em cetáceos, dedicada ao estudo de baleias e golfinhos no Atlântico Norte."
+},
+{
+  "_id": {
+    "$oid": "6929ee7ce2618b5f32f55350"
+  },
+  "id": 5,
+  "name": "Dr. Pedro Santos",
+  "specialty": "Primatas",
+  "email": "pedro.santos@primatologia.pt",
+  "institution": "Centro de Primatologia",
+  "bio": "Especialista em comportamento social de primatas, com mais de 20 anos de investigação em chimpanzés e gorilas."
+},
+{
+  "_id": {
+    "$oid": "6929ee7ce2618b5f32f55351"
+  },
+  "id": 6,
+  "name": "Prof. Teresa Alves",
+  "specialty": "Insetos (Lepidoptera)",
+  "email": "teresa.alves@entomologia.pt",
+  "institution": "Instituto de Entomologia",
+  "bio": "Professora e investigadora especializada em borboletas e mariposas, com foco em espécies endémicas portuguesas."
+},
+{
+  "_id": {
+    "$oid": "6929ee7ce2618b5f32f55352"
+  },
+  "id": 7,
+  "name": "Dr. Miguel Ferreira",
+  "specialty": "Anfíbios",
+  "email": "miguel.ferreira@biologia.pt",
+  "institution": "Universidade do Porto",
+  "bio": "Herpetólogo especializado em anfíbios ibéricos, coordenador de projetos de conservação de espécies ameaçadas."
+},
+{
+  "_id": {
+    "$oid": "6929ee7ce2618b5f32f55353"
+  },
+  "id": 8,
+  "name": "Dra. Sofia Martins",
+  "specialty": "Aves Rapinas",
+  "email": "sofia.martins@rapaces.pt",
+  "institution": "Centro de Recuperação de Aves",
+  "bio": "Veterinária e bióloga especializada em aves de rapina, com experiência em reabilitação e reintrodução na natureza."
+},
+{
+  "_id": {
+    "$oid": "6929ee7ce2618b5f32f55354"
+  },
+  "id": 9,
+  "name": "Prof. Ricardo Pereira",
+  "specialty": "Peixes (Ictiologia)",
+  "email": "ricardo.pereira@marinha.pt",
+  "institution": "Instituto Marinho",
+  "bio": "Ictiólogo com especialização em peixes de água doce, autor de diversos estudos sobre biodiversidade fluvial portuguesa."
+},
+{
+  "_id": {
+    "$oid": "6929ee7ce2618b5f32f55355"
+  },
+  "id": 10,
+  "name": "Dra. Beatriz Lopes",
+  "specialty": "Mamíferos (Canidae)",
+  "email": "beatriz.lopes@carnivoros.pt",
+  "institution": "Centro de Estudo de Carnívoros",
+  "bio": "Bióloga especializada em lobos ibéricos, envolvida em programas de monitorização e conservação da espécie em Portugal."
+},
+{
+  "_id": {
+    "$oid": "6929f030cf81ba84881cb32d"
+  },
+  "active": true,
+  "name": "Dr. João Silva",
+  "specialty": "Mamíferos (Felidae)",
+  "email": "joao.silva@universidade.pt",
+  "institution": "Universidade de Lisboa",
+  "bio": "Especialista em comportamento e conservação de grandes felinos com 15 anos de experiência em trabalho de campo na África e Ásia",
+  "__v": 0
+}]
