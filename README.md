@@ -190,7 +190,7 @@ The Sponsors module manages organizations and entities that sponsor or support s
 
 **Admin Menu**
 
-![Admin-Menu](Docs\Screenshots\Admin-Menu.png)
+![Admin-Menu](Docs/Screenshots/Admin-Menu.png)
 
 
 ### 5.1 Experts
@@ -201,11 +201,11 @@ The Experts feature only allows administrators to manage wildlife specialists an
 
 **Normal User**
 
-![User-ListExperts](Docs\Screenshots\User-ListExperts.png)
+![User-ListExperts](Docs/Screenshots/User-ListExperts.png)
 
 **Admin**
 
-![User-ListExperts](Docs\Screenshots\Admin-ListExperts.png)
+![User-ListExperts](Docs/Screenshots/Admin-ListExperts.png)
 
 #### **Creating/Edit an Expert (Admin Required)**
 
@@ -224,10 +224,10 @@ The Experts feature only allows administrators to manage wildlife specialists an
    - Bio (optional)
 6. Click "ADICIONAR" to create
 
-![Admin-CreateExpert](Docs\Screenshots\Admin-CreateExpert.png)
+![Admin-CreateExpert](Docs/Screenshots/Admin-CreateExpert.png)
 
 **The new expert appears when listing**
-![User-AfterCreateExpert](Docs\Screenshots\User-AfterCreateExpert.png)
+![User-AfterCreateExpert](Docs/Screenshots/User-AfterCreateExpert.png)
 
 
 #### **Deleting an Expert (Admin Required)**
@@ -238,9 +238,9 @@ The Experts feature only allows administrators to manage wildlife specialists an
 3. Confirm deletion in the dialog
 4. Expert is permanently removed
 
-![Admin-DeleteExpert](Docs\Screenshots\Admin-DeleteExpert.png)
+![Admin-DeleteExpert](Docs/Screenshots/Admin-DeleteExpert.png)
 
-![Admin-DeleteExpert](Docs\Screenshots\Admin-DeleteConfirm.png)
+![Admin-DeleteExpert](Docs/Screenshots/Admin-DeleteConfirm.png)
 
 ### 5.2 Sponsors
 
@@ -250,11 +250,11 @@ The Sponsors feature allows administrators to manage organizations supporting an
 
 **Normal User**
 
-![User-ListSponsors](Docs\Screenshots\User-ListSponsors.png)
+![User-ListSponsors](Docs/Screenshots/User-ListSponsors.png)
 
 **Admin**
 
-![User-ListSponsors](Docs\Screenshots\Admin-ListSponsors.png)
+![User-ListSponsors](Docs/Screenshots/Admin-ListSponsors.png)
 
 #### **Creating/Editing a Sponsor (Admin Required)**
 
@@ -272,10 +272,10 @@ The Sponsors feature allows administrators to manage organizations supporting an
    - Description (optional)
 6. Click "ADICIONAR" to create
 
-![Admin-CreateSponsor](Docs\Screenshots\Admin-CreateSponsor.png)
+![Admin-CreateSponsor](Docs/Screenshots/Admin-CreateSponsor.png)
 
 **The new sponsor appears when listing**
-![User-AfterCreateSponsor](Docs\Screenshots\User-AfterCreateSponsor.png)
+![User-AfterCreateSponsor](Docs/Screenshots/User-AfterCreateSponsor.png)
 
 
 #### **Deleting a Sponsor (Admin Required)**
@@ -286,9 +286,9 @@ The Sponsors feature allows administrators to manage organizations supporting an
 3. Confirm deletion in the dialog
 4. Sponsor is permanently removed
 
-![Admin-DeleteSponsor](Docs\Screenshots\Admin-DeleteSponsor.png)
+![Admin-DeleteSponsor](Docs/Screenshots/Admin-DeleteSponsor.png)
 
-![Admin-DeleteSponsor](Docs\Screenshots\Admin-DeleteSponsorConfirm.png)
+![Admin-DeleteSponsor](Docs/Screenshots/Admin-DeleteSponsorConfirm.png)
 
 ---
 
