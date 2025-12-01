@@ -6,15 +6,12 @@ AnimalEC is a full-stack web application designed to provide educational content
 
 The system includes administrative features for managing animals, questions, quizzes, experts, and sponsors, with role-based access control to ensure proper authorization.
 
-## 2. Technologies
+## 2. Main Technologies
 
 ### Backend
 - **Node.js** with **Express.js** - REST API server
 - **Mongoose** - MongoDB object modeling
 - **JWT (jsonwebtoken)** - Authentication and authorization
-- **bcryptjs** - Password hashing
-- **express-validator** - Request validation and sanitization
-- **nodemailer** - Email functionality
 - **dotenv** - Environment variable management
 
 ### Frontend
