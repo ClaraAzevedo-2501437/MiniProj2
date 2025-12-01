@@ -24,12 +24,20 @@ exports.create = (req, res) => {
     const errors = validationResult(req).array();
     if (errors.length > 0) return res.status(406).send(errors);
 
-    new Sponsor({
+    const sponsorData = {
         name: req.body.name,
-        animal: req.body.animal,
-        website: req.body.website,
-        description: req.body.description
-    }).save((error, sponsor) => {
+        animal: req.body.animal
+    };
+
+    // Only add optional fields if they have values
+    if (req.body.website && req.body.website.trim() !== '') {
+        sponsorData.website = req.body.website;
+    }
+    if (req.body.description && req.body.description.trim() !== '') {
+        sponsorData.description = req.body.description;
+    }
+
+    new Sponsor(sponsorData).save((error, sponsor) => {
         if (error) throw error;
         let message = SponsorMessages.success.s0;
         message.body = sponsor;

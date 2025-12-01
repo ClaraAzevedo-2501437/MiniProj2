@@ -3,8 +3,7 @@ let router = express.Router();
 const SponsorController = require('../controllers/sponsor.controller');
 const {
     body,
-    param,
-    sanitizeBody
+    param
 } = require('express-validator');
 const CONFIG = require("../config/config");
 const AuthController = require("../controllers/auth.controller");
@@ -13,11 +12,10 @@ const RoleMiddleware = require("../controllers/role.middleware");
 router.route('/')
     .get(AuthController.checkAuth, SponsorController.get)
     .post(AuthController.checkAuth, RoleMiddleware.requireAdmin, [
-        body('name').isString(),
-        body('animal').isString(),
-        body('website').optional().isURL(),
-        body('description').optional().isString(),
-        sanitizeBody('description').whitelist(CONFIG.sanitize.alphabet + CONFIG.sanitize.numerical)
+        body('name').isString().trim(),
+        body('animal').isString().trim(),
+        body('website').optional({checkFalsy: true}).isURL(),
+        body('description').optional({checkFalsy: true}).isString().trim()
     ], SponsorController.create);
 
 router.route("/deactivate/:id")

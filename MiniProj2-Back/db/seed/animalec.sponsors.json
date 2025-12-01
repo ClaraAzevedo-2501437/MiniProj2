@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "6929eeb7e2618b5f32f55357"
+  },
+  "id": 1,
+  "name": "EcoVida Wildlife Fund",
+  "animal": "Tigre",
+  "website": "https://ecovida.example.com",
+  "description": "Organização dedicada à preservação de grandes felinos em habitats naturais, com projetos ativos na Índia, Rússia e Sudeste Asiático."
+},
+{
+  "_id": {
+    "$oid": "6929eeb7e2618b5f32f55358"
+  },
+  "id": 2,
+  "name": "Ocean Guardians",
+  "animal": "Lontra",
+  "website": "https://oceanguardians.example.org",
+  "description": "Proteção de mamíferos aquáticos e ecossistemas marinhos, focada na conservação de lontras e seus habitats costeiros."
+},
+{
+  "_id": {
+    "$oid": "6929eeb7e2618b5f32f55359"
+  },
+  "id": 3,
+  "name": "Savana Conservation",
+  "animal": "Elefante",
+  "website": "https://savana.example.net",
+  "description": "Conservação de elefantes africanos e asiáticos, combatendo a caça ilegal e promovendo corredores de migração seguros."
+},
+{
+  "_id": {
+    "$oid": "6929eeb7e2618b5f32f5535a"
+  },
+  "id": 4,
+  "name": "Wings of Hope",
+  "animal": "Águia-real",
+  "website": "https://wingsofhope.example.org",
+  "description": "Fundação dedicada à proteção de aves de rapina ameaçadas, incluindo programas de reprodução em cativeiro e reintrodução."
+},
+{
+  "_id": {
+    "$oid": "6929eeb7e2618b5f32f5535b"
+  },
+  "id": 5,
+  "name": "Reef Protectors",
+  "animal": "Tartaruga Marinha",
+  "website": "https://reefprotectors.example.com",
+  "description": "Organização internacional focada na preservação de tartarugas marinhas e recifes de coral em todo o mundo."
+},
+{
+  "_id": {
+    "$oid": "6929eeb7e2618b5f32f5535c"
+  },
+  "id": 6,
+  "name": "Panda Alliance",
+  "animal": "Panda Gigante",
+  "website": "https://pandaalliance.example.net",
+  "description": "Aliança global para a conservação do panda gigante e seu habitat natural de bambu nas montanhas chinesas."
+},
+{
+  "_id": {
+    "$oid": "6929eeb7e2618b5f32f5535d"
+  },
+  "id": 7,
+  "name": "Amazon Rainforest Fund",
+  "animal": "Jaguar",
+  "website": "https://amazonrainforest.example.org",
+  "description": "Fundo dedicado à proteção da floresta amazônica e das espécies que nela habitam, com foco especial nos jaguares."
+},
+{
+  "_id": {
+    "$oid": "6929eeb7e2618b5f32f5535e"
+  },
+  "id": 8,
+  "name": "Arctic Wildlife Trust",
+  "animal": "Urso Polar",
+  "website": "https://arcticwildlife.example.com",
+  "description": "Organização focada na conservação de ursos polares e na luta contra as alterações climáticas no Ártico."
+},
+{
+  "_id": {
+    "$oid": "6929eeb7e2618b5f32f5535f"
+  },
+  "id": 9,
+  "name": "Gorilla Foundation",
+  "animal": "Gorila da Montanha",
+  "website": "https://gorillafoundation.example.org",
+  "description": "Fundação dedicada à proteção dos gorilas da montanha na África Central, apoiando comunidades locais e ecoturismo sustentável."
+},
+{
+  "_id": {
+    "$oid": "6929eeb7e2618b5f32f55360"
+  },
+  "id": 10,
+  "name": "Dolphin Rescue Network",
+  "animal": "Golfinho",
+  "website": "https://dolphinrescue.example.net",
+  "description": "Rede internacional de resgate e reabilitação de golfinhos, combatendo a poluição marinha e práticas de pesca prejudiciais."
+},
+{
+  "_id": {
+    "$oid": "6929eeb7e2618b5f32f55361"
+  },
+  "id": 11,
+  "name": "Koala Care Australia",
+  "animal": "Coala",
+  "website": "https://koalacare.example.com.au",
+  "description": "Organização australiana dedicada à proteção dos coalas e das florestas de eucalipto, seu habitat natural."
+},
+{
+  "_id": {
+    "$oid": "6929eeb7e2618b5f32f55362"
+  },
+  "id": 12,
+  "name": "Butterfly Conservation",
+  "animal": "Borboleta Monarca",
+  "website": "https://butterflyconservation.example.org",
+  "description": "Sociedade internacional para a conservação de borboletas e mariposas, com especial atenção à migração das borboletas monarca."
+}]

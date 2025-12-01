@@ -1,0 +1,157 @@
+[{
+  "_id": {
+    "$oid": "691a088221f906d59096baaa"
+  },
+  "name": "Leão",
+  "group": "Mamíferos",
+  "description": "O leão é um grande felino do género Panthera, nativo de África e da Índia. Tem um corpo musculado e de peito largo, cabeça curta e arredondada, orelhas redondas e um tufo de pelos na extremidade da cauda. É o segundo maior felino vivo, depois do tigre.",
+  "links": [
+    {
+      "_id": {
+        "$oid": "69276471b38b84019cefbe88"
+      },
+      "types": "image",
+      "url": "https://t4.ftcdn.net/jpg/10/88/51/79/360_F_1088517929_eKTx3aJ1UfyedGWVWkJLwTR1oHfNMHhH.jpg"
+    },
+    {
+      "_id": {
+        "$oid": "69276471b38b84019cefbe87"
+      },
+      "types": "video",
+      "url": "https://www.youtube.com/watch?v=OMkEVX23BdM"
+    }
+  ],
+  "level": 1,
+  "evaluation": [],
+  "comments": [
+    {
+      "_id": {
+        "$oid": "69276471b38b84019cefbe86"
+      },
+      "date": {
+        "$date": "2025-11-10T10:30:00.000Z"
+      },
+      "body": "Animal incrível! Rei da selva!"
+    },
+    {
+      "_id": {
+        "$oid": "69276471b38b84019cefbe85"
+      },
+      "date": {
+        "$date": "2025-11-26T20:34:00.000Z"
+      },
+      "body": "",
+      "user": "691a00527a06604aad198144"
+    },
+    {
+      "_id": {
+        "$oid": "692765c4b38b84019cefbe8b"
+      },
+      "date": {
+        "$date": "2025-11-26T20:40:00.000Z"
+      },
+      "body": "Comentário teste.",
+      "user": "691a00527a06604aad198144"
+    },
+    {
+      "_id": {
+        "$oid": "69276631b38b84019cefbe90"
+      },
+      "body": "comentário teste user name",
+      "user": "691a00527a06604aad198144",
+      "date": {
+        "$date": "2025-11-26T20:42:00.000Z"
+      }
+    }
+  ],
+  "active": true
+},
+{
+  "_id": {
+    "$oid": "691a088221f906d59096baab"
+  },
+  "name": "Baleia-azul",
+  "group": "Mamíferos",
+  "description": "A baleia-azul é um mamífero marinho e um tipo de baleia de barbas. Pode atingir um comprimento máximo confirmado de 29,9 metros e pesar até 199 toneladas, sendo o maior animal que se sabe ter existido.",
+  "links": [
+    {
+      "types": "image",
+      "url": "https://media.istockphoto.com/id/1408390913/vector/cartoon-cute-blue-whale-isolated-on-white-background-wild-animal-character-icon-vector.jpg?s=612x612&w=0&k=20&c=r1F0JsZMM6TzEVCd9whI9Bgt84Tpj_5F0i9VOwfvdUc="
+    }
+  ],
+  "level": 2,
+  "evaluation": [],
+  "comments": [],
+  "active": true
+},
+{
+  "_id": {
+    "$oid": "691a088221f906d59096baac"
+  },
+  "name": "Águia-real",
+  "group": "Aves",
+  "description": "A águia-real é uma das aves de rapina mais conhecidas do Hemisfério Norte. É a espécie de águia com a distribuição mais ampla. Como todas as águias, pertence à família Accipitridae.",
+  "links": [
+    {
+      "_id": {
+        "$oid": "69276487b38b84019cefbe8a"
+      },
+      "types": "image",
+      "url": "https://img.freepik.com/vetores-premium/aguia-personagem-de-desenho-animado-animal-ilustracao-realista_1150526-87.jpg"
+    }
+  ],
+  "level": 2,
+  "evaluation": [],
+  "comments": [
+    {
+      "_id": {
+        "$oid": "69276487b38b84019cefbe89"
+      },
+      "body": "",
+      "user": "691a00527a06604aad198144",
+      "date": {
+        "$date": "2025-11-26T20:35:00.000Z"
+      }
+    }
+  ],
+  "active": true
+},
+{
+  "_id": {
+    "$oid": "691a088221f906d59096baad"
+  },
+  "name": "Tartaruga-verde",
+  "group": "Répteis",
+  "description": "A tartaruga-verde, também conhecida como tartaruga-preta ou tartaruga-verde-do-Pacífico, é uma espécie de tartaruga marinha de grande porte da família Cheloniidae. É a única espécie do género Chelonia.",
+  "links": [
+    {
+      "_id": {
+        "$oid": "691a17238596aa2a78e84640"
+      },
+      "types": "image",
+      "url": "https://media.istockphoto.com/id/1219004499/vector/big-green-sea-turtle-cartoon-cute-animal-design-ocean-tortoise-swimming-in-water-flat-vector.jpg?s=612x612&w=0&k=20&c=CBD8d1S1bXR76HJpiaUDxfSJayqodWUlQ2r9TgioJ54="
+    }
+  ],
+  "level": 1,
+  "evaluation": [],
+  "comments": [],
+  "active": true
+},
+{
+  "_id": {
+    "$oid": "691a088221f906d59096baae"
+  },
+  "name": "Rã-venenosa-dardo",
+  "group": "Anfíbios",
+  "description": "Rã-venenosa-dardo é o nome comum de um grupo de rãs da família Dendrobatidae, nativas das regiões tropicais da América Central e do Sul. Estas espécies são diurnas e apresentam frequentemente cores muito vivas.",
+  "links": [
+    {
+      "types": "image",
+      "url": "https://media.istockphoto.com/id/959509794/pt/vetorial/poison-dart-frog-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=qvK_J_guS9mfjkGMg5iXzMUHWdVu7y1DIgnzGdfKVZ4="
+    }
+  ],
+  "level": 3,
+  "evaluation": [],
+  "comments": [],
+  "active": true
+}]

@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "691a0ecc21f906d59096bad1"
+  },
+  "level": 1,
+  "name": "Iniciante",
+  "avatar": "beginner_avatar.png",
+  "max": 100
+},
+{
+  "_id": {
+    "$oid": "691a0ecc21f906d59096bad2"
+  },
+  "level": 2,
+  "name": "Intermédio",
+  "avatar": "intermediate_avatar.png",
+  "max": 500
+},
+{
+  "_id": {
+    "$oid": "691a0ecc21f906d59096bad3"
+  },
+  "level": 3,
+  "name": "Avançado",
+  "avatar": "advanced_avatar.png",
+  "max": 1000
+},
+{
+  "_id": {
+    "$oid": "691a0ecc21f906d59096bad4"
+  },
+  "level": 4,
+  "name": "Especialista",
+  "avatar": "expert_avatar.png",
+  "max": 5000
+}]

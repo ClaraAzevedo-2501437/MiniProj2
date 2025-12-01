@@ -1,0 +1,133 @@
+[{
+  "_id": {
+    "$oid": "691a00527a06604aad198144"
+  },
+  "name": "Pedro",
+  "type": "user",
+  "birth_date": {
+    "$date": "2000-01-10T00:00:00.000Z"
+  },
+  "description": "",
+  "location": {
+    "city": "Porto",
+    "district": "",
+    "country": "Portugal"
+  },
+  "auth": {
+    "username": "pedrocoches",
+    "password": "$2a$04$J186KsBSi11G/Gh7ITM3A.yzoJvl9GVesJBKTwYgogLaCkpTRQ5em",
+    "public_key": "a9itrn4uh67691a00527a06604aad198144",
+    "private_key": "gvjxb6iuj8691a00527a06604aad198144"
+  },
+  "active": true,
+  "gamification": {
+    "points": 400,
+    "quiz": "11"
+  },
+  "registration_date": {
+    "$date": "2025-11-16T16:48:18.177Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691a0c5a21f906d59096bac1"
+  },
+  "name": "John Smith",
+  "type": "student",
+  "birth_date": "2000-05-15T00:00:00.000Z",
+  "description": "Animal enthusiast and biology student",
+  "location": {
+    "city": "Lisbon",
+    "district": "Lisbon",
+    "country": "Portugal"
+  },
+  "auth": {
+    "username": "johnsmith",
+    "password": "Password123"
+  },
+  "active": true,
+  "gamification": {
+    "points": 150,
+    "quiz": null
+  }
+},
+{
+  "_id": {
+    "$oid": "691a0c5a21f906d59096bac2"
+  },
+  "name": "Maria Silva",
+  "type": "teacher",
+  "birth_date": "1985-08-22T00:00:00.000Z",
+  "description": "Professora de Biologia apaixonada pela Natureza.",
+  "location": {
+    "city": "Porto",
+    "district": "Porto",
+    "country": "Portugal"
+  },
+  "auth": {
+    "username": "mariasilva",
+    "password": "Teacher456"
+  },
+  "active": true,
+  "gamification": {
+    "points": 500,
+    "quiz": null
+  }
+},
+{
+  "_id": {
+    "$oid": "691a0c5a21f906d59096bac3"
+  },
+  "name": "Pedro Santos",
+  "type": "student",
+  "birth_date": "2002-12-10T00:00:00.000Z",
+  "description": "Adoro aprender sobre animais.",
+  "location": {
+    "city": "Coimbra",
+    "district": "Coimbra",
+    "country": "Portugal"
+  },
+  "auth": {
+    "username": "pedrosantos",
+    "password": "Student789"
+  },
+  "active": true,
+  "gamification": {
+    "points": 75,
+    "quiz": null
+  }
+},
+{
+  "_id": {
+    "$oid": "692a2dae3094448900a5a468"
+  },
+  "gamification": {
+    "points": 0,
+    "quiz": null
+  },
+  "active": true,
+  "name": "Administrador",
+  "type": "admin",
+  "birth_date": {
+    "$date": {
+      "$numberLong": "-2208988800000"
+    }
+  },
+  "description": "",
+  "location": {
+    "city": "Porto",
+    "district": "",
+    "country": "Portugal"
+  },
+  "auth": {
+    "username": "admin",
+    "password": "$2a$04$oV6vSqt.op4arYPQMt1zauo2lasG9e/lrmEzXCybQ1KxNSXBdiqBC",
+    "public_key": "fxyrmccn23u692a2dae3094448900a5a468",
+    "private_key": "qnz25f4xdk8692a2dae3094448900a5a468"
+  },
+  "registration_date": {
+    "$date": "2025-11-28T23:18:06.094Z"
+  },
+  "__v": 0
+}]

@@ -1,6 +1,9 @@
+// Load environment variables from .env file (if it exists)
+require('dotenv').config();
+
 module.exports = {
     mongodb: {
-        uri: 'mongodb://localhost:27017/animalec',
+        uri: process.env.MONGO_URI || 'mongodb://localhost:27017/animalec',
         collections: {
             animal: 'animals',
             question: 'questions',
